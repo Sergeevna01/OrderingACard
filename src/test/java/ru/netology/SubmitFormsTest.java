@@ -1,4 +1,4 @@
-package ru.netology.orderingacard;
+package ru.netology;
 
 import com.codeborne.selenide.SelenideElement;
 import org.testng.annotations.BeforeMethod;
