@@ -16,6 +16,7 @@ public class SubmitFormsTest {
         open("http://localhost:9999");
     }
 
+
     @Test
     public void shouldValidNameTest() {
         form.$("[data-test-id=name] input").setValue("Носырев Иван");
